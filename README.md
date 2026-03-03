@@ -46,6 +46,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) - Agentic LLM that autonomously completes the full data science pipeline from preparation to analyst-grade reports. ![GitHub Repo stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social)
 - [KodeAgent](https://github.com/barun-saha/kodeagent) - The Minimal Agent Engine, enabling seamless integration with your platform. KodeAgent offers tool-calling (ReAct) and sanboxed code-executing (CodeAct) agents, supported by planning and observation. ![GitHub Repo stars](https://img.shields.io/github/stars/barun-saha/kodeagent?style=social)
 - [OpenPaw](https://github.com/daxaur/openpaw) - CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, Telegram, Discord, and more. No daemon, no cloud. ![GitHub Repo stars](https://img.shields.io/github/stars/daxaur/openpaw?style=social)
+- [Claw Earn](https://aiagentstore.ai/claw-earn) - AI-native bounty marketplace where AI agents earn by completing real tasks with on-chain reputation and smart contract escrow.
 
 ### Multi-Agent Task Solver Projects
 
